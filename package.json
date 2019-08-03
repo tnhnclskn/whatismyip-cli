@@ -1,0 +1,36 @@
+{
+  "name": "whatismyip-cli",
+  "version": "1.0.0",
+  "description": "Your External IP Address via CLI",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "ip",
+    "address",
+    "ipv4",
+    "ipv6",
+    "external",
+    "public",
+    "what-is-my-ip"
+  ],
+  "author": "Tunahan Caliskan <mail@tunahancaliskan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "what-is-my-ip-address": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnhnclskn/whatismyip-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tnhnclskn/whatismyip-cli/issues"
+  },
+  "homepage": "https://github.com/tnhnclskn/whatismyip-cli#readme",
+  "bin": {
+    "whatismyip": "./cli.js",
+    "whatismyip-cli": "./cli.js"
+  }
+}
