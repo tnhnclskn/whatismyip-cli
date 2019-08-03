@@ -14,6 +14,6 @@ ipVersion
     console.log(ip)
   })
   .catch(() => {
-    console.error(`You don't have a ip address.`)
+    console.error(`No IPv6 address detected`)
     process.exit(1)
   })
