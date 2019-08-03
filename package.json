@@ -1,6 +1,6 @@
 {
   "name": "whatismyip-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your External IP Address via CLI",
   "main": "cli.js",
   "scripts": {
