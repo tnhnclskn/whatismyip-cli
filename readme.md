@@ -2,15 +2,23 @@
 
 ## Getting started
 
-```npm install -g whatismyip-cli```
+```
+npm install -g whatismyip-cli
+```
 or
-```yarn global add whatismyip-cli```
+```
+yarn global add whatismyip-cli
+```
 
 IP v4:
-```$ whatipmyip```
+```
+$ whatipmyip
+```
 
 IP v6:
-```$ whatipmyip -6```
+```
+$ whatipmyip -6
+```
 
 ## Contributions
 
